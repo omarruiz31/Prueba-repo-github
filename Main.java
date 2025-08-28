@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String userInput = scanner.next();
 
-        System.out.println("User wrote "+ userInput);
+        System.out.println("User wrote :"+ userInput);
 
     }
 }
