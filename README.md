@@ -2,4 +2,14 @@
 
 El porgrama esta hecho en java, este toma una entrada del usuario y la devuelve posteriormente en la consola
 
-'''
+## Como ejecutarlo?
+```
+cmd
+#Compila el programa
+javac Main.java
+
+#Ejecuta el programa
+
+java main.java
+```
+
